@@ -8,7 +8,7 @@ export default function Home() {
           pfetch.me
         </div>
         <div className="hidden md:flex gap-8 font-bold text-lg items-center">
-          <a href="#login" className="px-6 py-2 bg-nord-3 text-nord-6 font-bold brutal-border brutal-shadow hover:bg-nord-2 transition-all">
+          <a href="/login" className="px-6 py-2 bg-nord-3 text-nord-6 font-bold brutal-border brutal-shadow hover:bg-nord-2 transition-all">
             Login
           </a>
         </div>
